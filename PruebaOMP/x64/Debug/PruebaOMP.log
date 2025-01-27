@@ -1,0 +1,13 @@
+﻿  PruebaOMP.cpp
+C:\Users\cuco_\source\repos\PruebaOMP\PruebaOMP\PruebaOMP.cpp(19,18): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+C:\Users\cuco_\source\repos\PruebaOMP\PruebaOMP\PruebaOMP.cpp(19,18): warning C4244:         with
+C:\Users\cuco_\source\repos\PruebaOMP\PruebaOMP\PruebaOMP.cpp(19,18): warning C4244:         [
+C:\Users\cuco_\source\repos\PruebaOMP\PruebaOMP\PruebaOMP.cpp(19,18): warning C4244:             _Ty=float
+C:\Users\cuco_\source\repos\PruebaOMP\PruebaOMP\PruebaOMP.cpp(19,18): warning C4244:         ]
+C:\Users\cuco_\source\repos\PruebaOMP\PruebaOMP\PruebaOMP.cpp(20,24): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\cuco_\source\repos\PruebaOMP\PruebaOMP\PruebaOMP.cpp(20,24): warning C4244:         with
+C:\Users\cuco_\source\repos\PruebaOMP\PruebaOMP\PruebaOMP.cpp(20,24): warning C4244:         [
+C:\Users\cuco_\source\repos\PruebaOMP\PruebaOMP\PruebaOMP.cpp(20,24): warning C4244:             _Ty=float
+C:\Users\cuco_\source\repos\PruebaOMP\PruebaOMP\PruebaOMP.cpp(20,24): warning C4244:         ]
+C:\Users\cuco_\source\repos\PruebaOMP\PruebaOMP\PruebaOMP.cpp(16,9): warning C4101: 'i': unreferenced local variable
+  PruebaOMP.vcxproj -> C:\Users\cuco_\source\repos\PruebaOMP\x64\Debug\PruebaOMP.exe
